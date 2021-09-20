@@ -1,0 +1,10 @@
+C:\Users\Aluno1\Desktop\Jesher\DS\30.08.2021\JogoDaVelha_Jesher\JogoDaVelha_Jesher\obj\Debug\JogoDaVelha_Jesher.csproj.AssemblyReference.cache
+C:\Users\Aluno1\Desktop\Jesher\DS\30.08.2021\JogoDaVelha_Jesher\JogoDaVelha_Jesher\obj\Debug\JogoDaVelha_Jesher.Frm01.resources
+C:\Users\Aluno1\Desktop\Jesher\DS\30.08.2021\JogoDaVelha_Jesher\JogoDaVelha_Jesher\obj\Debug\JogoDaVelha_Jesher.Properties.Resources.resources
+C:\Users\Aluno1\Desktop\Jesher\DS\30.08.2021\JogoDaVelha_Jesher\JogoDaVelha_Jesher\obj\Debug\JogoDaVelha_Jesher.csproj.GenerateResource.cache
+C:\Users\Aluno1\Desktop\Jesher\DS\30.08.2021\JogoDaVelha_Jesher\JogoDaVelha_Jesher\obj\Debug\JogoDaVelha_Jesher.csproj.CoreCompileInputs.cache
+C:\Users\Aluno1\Desktop\Jesher\DS\30.08.2021\JogoDaVelha_Jesher\JogoDaVelha_Jesher\bin\Debug\JogoDaVelha_Jesher.exe.config
+C:\Users\Aluno1\Desktop\Jesher\DS\30.08.2021\JogoDaVelha_Jesher\JogoDaVelha_Jesher\bin\Debug\JogoDaVelha_Jesher.exe
+C:\Users\Aluno1\Desktop\Jesher\DS\30.08.2021\JogoDaVelha_Jesher\JogoDaVelha_Jesher\bin\Debug\JogoDaVelha_Jesher.pdb
+C:\Users\Aluno1\Desktop\Jesher\DS\30.08.2021\JogoDaVelha_Jesher\JogoDaVelha_Jesher\obj\Debug\JogoDaVelha_Jesher.exe
+C:\Users\Aluno1\Desktop\Jesher\DS\30.08.2021\JogoDaVelha_Jesher\JogoDaVelha_Jesher\obj\Debug\JogoDaVelha_Jesher.pdb
